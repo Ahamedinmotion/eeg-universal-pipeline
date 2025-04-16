@@ -1,0 +1,20 @@
+{
+    "model_name": "RandomForest EEG Classifier",
+    "version": "1.0",
+    "author": "Syed Ahamed (Yato)",
+    "accuracy": 0.8691588785046729,
+    "features_used": [
+        "mean",
+        "std",
+        "max",
+        "min",
+        "skewness",
+        "kurtosis",
+        "delta_power",
+        "theta_power",
+        "alpha_power",
+        "beta_power",
+        "gamma_power"
+    ],
+    "date_created": "2025-04-16"
+}
