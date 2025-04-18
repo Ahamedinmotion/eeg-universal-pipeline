@@ -42,10 +42,3 @@ We're building **real pipelines** for **real-world** impact.
 Open-source. Scalable. Audacious.
 
 ---
-
-## Getting Started
-
-```bash
-git clone https://github.com/YOUR_USERNAME/eeg-universal-pipeline.git
-cd eeg-universal-pipeline
-
